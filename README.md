@@ -8,3 +8,4 @@ Kaggle competition https://www.kaggle.com/c/mercedes-benz-greener-manufacturing
 
 # Model
 - Using Linear regression the model score was **0.62**
+- Using Random Forset regessor, the model's R Squared score was **0.91**
